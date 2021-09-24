@@ -5,7 +5,7 @@ fun noOfOccurrences(s: String, ch: Char): Int {
 }
 
     fun main(args: Array<String>) {
-
+        //Question1
         var str = "Akash Shekhawat living in uttar pradesh"
         val oldValue = "Akash Shekhawat"
         val newValue = "Aashutosh"
